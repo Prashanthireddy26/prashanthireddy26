@@ -2,19 +2,19 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 
-- 🔭 I’m currently working on **bank project**
+- 🔭 I’m currently learning python full stack 
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **Web technologies**
 
-- 👯 I’m looking to collaborate on **FBH**
+- 👯
 
-- 🤝 I’m looking for help with **fraud Bank of Hyderabad**
+- 🤝 
 
-- 💬 Ask me about **react,javascript,sql,python**
+- 💬 
 
-- 📫 How to reach me **chinnasaikumar24@gmail.com**
+- 📫 How to reach me **prashureddy126@gmail.com**
 
-- ⚡ Fun fact **I think I am Good boy**
+- ⚡ Fun fact **I think I am Good and sharp girl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
