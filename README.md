@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 This is  Prashanthi Chinnapureddy </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-
 - 🔭 I’m currently learning ** python full stack **
 
 - 🌱 I’m currently learning **Web technologies**
