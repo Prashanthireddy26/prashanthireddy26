@@ -28,7 +28,7 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanthireddy26&show_icons=true&locale=en&layout=compact" alt="Prashanthichinnapureddy" /></p>
 <br>
-<p>nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRASHANTHI CHINNAPUREDDY&show_icons=true&locale=en" alt="Prashanthi reddy" /></p>
+<p>nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashanthireddy26 CHINNAPUREDDY&show_icons=true&locale=en" alt="Prashanthi reddy" /></p>
 <h2 align="left">Hi 👋! My name is prashanthi Reddy and I'm a developer, from hyderabad</h2></p>
 <br>
 ###
