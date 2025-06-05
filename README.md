@@ -9,12 +9,11 @@
 
 - 🤝 
 - 💬 
-
 - 📫 How to reach me **prashureddy126@gmail.com**
 
 - ⚡ Fun fact **I think I am Good and sharp girl**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:)</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/prashanthi-reddy-56b868241/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BA%2Foi4e%2BDTO673cPN4F%2BnSw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prashanthi Reddy" height="30" width="40" /></a>
