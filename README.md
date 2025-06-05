@@ -8,7 +8,6 @@
 - 👯
 
 - 🤝 
-
 - 💬 
 
 - 📫 How to reach me **prashureddy126@gmail.com**
