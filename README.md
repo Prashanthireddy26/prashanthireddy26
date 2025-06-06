@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Web technologies**
 
 - 👯
-
+- 
 - 🤝 
 - 💬 
 - 📫 How to reach me **prashureddy126@gmail.com**
