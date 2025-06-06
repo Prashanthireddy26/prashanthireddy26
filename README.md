@@ -4,7 +4,6 @@
 - 🔭 I’m currently learning ** python full stack **
 
 - 🌱 I’m currently learning **Web technologies**
-
 - 👯
 - 
 - 🤝 
