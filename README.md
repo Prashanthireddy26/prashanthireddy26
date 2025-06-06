@@ -44,7 +44,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthireddy26&label=Profile%20views&color=0e75b6&style=flat" alt="prashanthireddy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashanthireddy26" alt="prashanthireddy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashanthireddy26" alt="prashanthiReddy" /></a> </p>
 
 ###
 
