@@ -32,7 +32,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle SQl" width="40" height="40"> </p>
 <br>
 <br>
-<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanthireddy26&show_icons=true&locale=en&layout=compact" alt="Prashanthichinnapureddy" /></p>
 <br>
 <br>
