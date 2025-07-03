@@ -1,14 +1,4 @@
-<h1 align="center">Hi 👋 This is Prashanthi Chinnapureddy  </h1>
 
-<h3 align="center">A passionate fullstack developer from India</h3>
-
-- 🔭 I’m currently learning ** python full stack **
- 
-- 🌱 I’m currently learning **Web technologies** 
-- 👯
-- #
-- 🤝
-- 💬 
 - 📫 How to reach me **prashureddy126@gmail.com**
 - ⚡ Fun fact ***I think I am Good and sharp girl***
 <h3 align="left">Connect with me:)</h3>
