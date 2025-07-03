@@ -1,4 +1,17 @@
+<h1 align="center">Hi  👋 This is Prashanthi reddy Chinnapureddy </h1>
+<h3 align="center">A passionate fullstack developer from  Hyderabad</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
+- 🔭 I’m currently  working on **Frontend wesites**
+- ⭐ ask me about Github ☣️
+
+- 🌱 I’m currently learning **Python** & Intresting in coding...
+
+- 🤝 I’m looking for help with **python_projetcts**
+
+- 💬 Ask me about **web_tech,SQL,PYTHON**
 - 📫 How to reach me **prashureddy126@gmail.com**
 - ⚡ Fun fact ***I think I am Good and sharp girl***
 <h3 align="left">Connect with me:)</h3>
