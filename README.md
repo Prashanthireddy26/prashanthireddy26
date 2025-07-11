@@ -51,7 +51,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthireddy26&label=Profile%20views&color=0e75b6&style=flat" alt="prashanthireddy" /> </p>
 
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <br clear="both">
