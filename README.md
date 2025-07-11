@@ -38,6 +38,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanthireddy26&show_icons=true&locale=en&layout=compact" alt="Prashanthireddy26" /></p>
 <br>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashanthireddy26&show_icons=true&locale=en" alt="Prashanthireddy26" /></p>
 <br>
 <br>
