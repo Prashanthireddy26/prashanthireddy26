@@ -53,4 +53,3 @@
 <br clear="both">
 
 ![snake gif](https://github.com/Prashanthireddy26/Prashanthireddy26/blob/output/github-snake-dark.svg)
-
