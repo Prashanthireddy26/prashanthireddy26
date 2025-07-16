@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Python** & Intresting in coding...
 
 - 🤝 I’m looking for help with **python_projetcts**
-
 - 💬 Ask me about **web_tech,SQL,PYTHON**
 - 📫 How to reach me **prashureddy126@gmail.com**
 - ⚡ Fun fact ***I think I am Good and sharp girl***
