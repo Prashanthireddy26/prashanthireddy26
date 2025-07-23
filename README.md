@@ -15,8 +15,10 @@
 <a href="https://www.linkedin.com/in/prashanthi-reddy-56b868241/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BA%2Foi4e%2BDTO673cPN4F%2BnSw%3D%3D" target="blank">
 <a href="https://linkedin.com/in/Prashanthi Chinnapureddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashanthi" height="30" width="40" /></a>
 
+
 <ahref="https://instagram.com/prashanthi_reddych" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prashanthi Reddy" height="30" width="40" /></a>
 </p>
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -33,6 +35,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanthireddy26&show_icons=true&locale=en&layout=compact" alt="Prashanthireddy26" /></p>
+
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashanthireddy26&show_icons=true&locale=en" alt="Prashanthireddy26" /></p>
