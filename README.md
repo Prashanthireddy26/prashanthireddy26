@@ -5,8 +5,9 @@
 </div> 
 <br>
 - 🔭 I’m currently  working on **Frontend wesites**
-<br><br>
+<br>
 - ⭐ ask me about Github ☣️
+<br>
 - 🌱 I’m currently learning **Python** & Intresting in coding....
 - 🤝 I’m looking for help with **python_projetcts**
 - 💬 Ask me about **web_tech,SQL,PYTHON**
