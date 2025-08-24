@@ -21,9 +21,11 @@
 <a href="https://www.linkedin.com/in/prashanthi-reddy-56b868241/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BA%2Foi4e%2BDTO673cPN4F%2BnSw%3D%3D" target="blank">
 <a href="https://linkedin.com/in/Prashanthi Chinnapureddy" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashanthi" height="30" width="40" /></a>
+https://instagram.com/prashanthi_reddych
+https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg
 
-
-<ahref="https://instagram.com/prashanthi_reddych" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prashanthi Reddy" height="30" width="40" /></a>
+<ahref="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="blank">
+<img align="center" src="https://instagram.com/prashanthi_reddych" alt="Prashanthi Reddy" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
