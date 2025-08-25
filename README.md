@@ -8,7 +8,6 @@
 <br>
 ⭐ ask me about Github ☣️
 <br>
-
 🌱 I’m currently learning **Python** & Intresting in coding....
 <br>
 - 🤝 I’m looking for help with **python_projetcts**
