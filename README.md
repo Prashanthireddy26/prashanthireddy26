@@ -6,7 +6,7 @@
 <br>
 -🔭 I’m currently  working on **Frontend wesites**
 <br>
-⭐ ask me about Github ☣️
+- ⭐ ask me about Github ☣️
 <br>
 🌱 I’m currently learning **Python** & Intresting in coding....
 <br>
