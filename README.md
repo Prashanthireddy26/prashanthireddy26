@@ -1,7 +1,7 @@
-  <h1 align="center">Hi 👋 This is Prashanthi reddy Chinnapureddy</h1> 
+<h1 align="center">Hi 👋 This is Prashanthi reddy Chinnapureddy</h1> 
 <h3 align="center">A passionate   fullstack developer from  Hyderabad</h3>
 <div align="center">
-  <img height="150"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /> 
+<img height="150"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /> 
 </div> 
 <br>
 -🔭 I’m currently  working on **Frontend wesites**
@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning **Python** & Intresting in coding....
 <br>
 - 🤝 I’m looking for help with **python_projetcts**
+
 <br>
 - 💬 Ask me about **web_tech,SQL,PYTHON**
 <br>
