@@ -12,7 +12,7 @@
 <br>
 - 🤝 I’m looking for help with **python_projetcts**
 
-<br>
+<br> 
 - 💬 Ask me about **web_tech,SQL,PYTHON**
 <br>
 - 📫 How to reach me **prashureddy126@gmail.com**
