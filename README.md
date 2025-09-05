@@ -19,6 +19,7 @@
 - ⚡ Fun fact **I think I am Good and sharp girl**
 <br>
 <h3 align="left">Connect with me:)</h3>
+<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/prashanthi-reddy-56b868241/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BA%2Foi4e%2BDTO673cPN4F%2BnSw%3D%3D" target="blank">
 <a href="https://linkedin.com/in/Prashanthi Chinnapureddy" target="blank">
