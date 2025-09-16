@@ -16,7 +16,7 @@
 - 💬 Ask me about **web_tech,SQL,PYTHON**
 <br><br>
 - 📫 How to reach me **prashureddy126@gmail.com**
-<br><br>
+<br>
 - ⚡ Fun fact **I think I am Good and sharp girl**
 <br>
 <h3 align="left">Connect with me:)</h3>
