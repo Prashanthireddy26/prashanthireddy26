@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 This is Prashanthi reddy Chinnapureddy</h1> 
+ <h1 align="center">Hi 👋 This is Prashanthi reddy Chinnapureddy</h1> 
 <h3 align="center">A passionate   fullstack developer from  Hyderabad</h3>
 <br>
 <div align="center">
