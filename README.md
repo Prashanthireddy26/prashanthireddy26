@@ -28,7 +28,6 @@
   <a href="https://instagram.com/prashanthi_reddych" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prashanthi Reddy Instagram" height="30" width="40" />
 </a>
-   
 </p>
 
 <br>
