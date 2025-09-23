@@ -2,9 +2,7 @@
 <br>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthireddy26&label=Profile%20views&color=0e75b6&style=flat" alt="prashanthireddy26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashanthireddy26" alt="prashanthireddy26" /></a> </p>
 
 - 🔭 I’m currently working on **Django**
 
@@ -33,7 +31,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthireddy26&" alt="prashanthireddy26" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthireddy26&label=Profile%20views&color=0e75b6&style=flat" alt="prashanthireddy26" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashanthireddy26" alt="prashanthireddy26" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthireddy26&label=Profile%20views&color=0e75b6&style=flat" alt="prashanthireddy" /> </p>
 
