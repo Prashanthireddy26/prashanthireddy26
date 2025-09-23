@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm prashanthi chinnapureddy</h1>
+<br>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthireddy26&label=Profile%20views&color=0e75b6&style=flat" alt="prashanthireddy26" /> </p>
