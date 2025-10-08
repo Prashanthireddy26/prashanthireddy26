@@ -5,7 +5,6 @@
 <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 - 🔭 I’m currently working on **Django**
-
 - 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **API**
