@@ -6,7 +6,6 @@
 </div>
 - 🔭 I’m currently working on **Django**
 - 🌱 I’m currently learning **Django**
-
 - 👯 I’m looking to collaborate on **API**
 
 - 💬 Ask me about **html, css, javascript, python,sql,django**
