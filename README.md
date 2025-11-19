@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on **API**
 - 💬 Ask me about **html, css, javascript, python,sql,django**
 - 📫 How to reach me **chinnapureddyprashanthi@gmail.com**
-
 - ⚡ Fun fact **I think I am a good and funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
