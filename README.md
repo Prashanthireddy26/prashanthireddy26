@@ -28,7 +28,6 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 </p> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanthireddy26&show_icons=true&locale=en&layout=compact" alt="prashanthireddy26" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashanthireddy26&show_icons=true&locale=en" alt="prashanthireddy26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthireddy26&" alt="prashanthireddy26" /></p>
