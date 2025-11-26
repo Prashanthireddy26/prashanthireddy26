@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm prashanthi chinnapureddy</h1>
 <br> 
 <h3 align="center">A passionate fullstack developer from India</h3>
